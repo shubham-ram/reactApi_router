@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbarS{
+    /* background-color: #219ebc; */
+    background-color: #7531FA;
+    text-align: center;
+    padding: 1rem;
+}
+
+.navbarS input{
+    padding: 10px;
+    border: none;
+    width: 16rem;
+    margin: 2px 5px;
+}
+.navbar input:active{
+    border: none;
+}
+
+.getMovieBtn{
+    padding: 8px 16px;
+}
+
+.movieName{
+    text-decoration: none;
+    font-size: 20px;
+}
